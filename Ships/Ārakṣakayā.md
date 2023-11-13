@@ -6,4 +6,6 @@
 	- Can fire: Flechette (shrapnel)
 	- HVAP (high velocity armour piercing)
 	- Concussive shells/HESH
-	
+
+- has uh, some anti munitions defence? It can fire its autocannon at incoming missiles, and by using flechette rounds it can flood a space with a high-density of shrapnel.
+	- Also armed with dedicated CIWS turrets, functioning similar to Rheinmetall airburst shrapnel shells - low rate of fire, but creates incredibly dense shrapnel fields.
