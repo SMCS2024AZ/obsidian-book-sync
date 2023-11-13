@@ -19,3 +19,20 @@ The FASS was preceded by the [[Ecclesian Empire]]. Prior to its fall, the Eccles
 TODO
 -->
 ### Navy
+There are 4 classes of ships as designated by FORCOM (Asiarian Force Command) regulations:
+* Class 0 represents a civilian retrofit of a ship designed for usage in transportation or shipping. Typically, only old, antiquated military vessels will be retrofitted to Class 0.
+* Class 1 are ships sold to privsec (private security) and private companies, and typically have lighter armaments and gutted electronic systems.
+* Class 2 are military exports sold to adjunct nations under the Free Asiaru Star System. They are military grade, though typically lack the most advanced technology.
+* Class 3 are state of the art military-grade ships designed for FASS naval usage.
+
+Types of ships
+- GCUC – Ground Cover Utility Craft
+- NCUC – Non-Combat Utility Craft
+- RRPC – Rapid Response Patrol Craft
+	- Examples:
+		- [[Gælavīma]]
+- GMC - Guided Missile Cruiser
+	- Examples:
+		- [[Ārakṣakayā]]
+- Carrier
+- Fleet Tender
