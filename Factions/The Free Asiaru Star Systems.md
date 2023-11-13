@@ -26,13 +26,4 @@ There are 4 classes of ships as designated by FORCOM (Asiarian Force Command) re
 * Class 3 are state of the art military-grade ships designed for FASS naval usage.
 
 Types of ships
-- GCUC – Ground Cover Utility Craft
-- NCUC – Non-Combat Utility Craft
-- RRPC – Rapid Response Patrol Craft
-	- Examples:
-		- [[Gælavīma]]
-- GMC - Guided Missile Cruiser
-	- Examples:
-		- [[Ārakṣakayā]]
-- Carrier
-- Fleet Tender
+* TODO
