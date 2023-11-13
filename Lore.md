@@ -16,7 +16,7 @@ There are 4 classes of ships as designated by FORCOM (Asiarian Force Command) re
 Class 0 represents a civilian retrofit of a ship designed for usage in transportation or shipping. Typically, only old, antiquated military vessels will be retrofitted to Class 0.
 Class 1 are ships sold to privsec (private security) and private companies, and typically have lighter armaments and gutted electronic systems.
 Class 2 are military exports sold to adjunct nations under the Free Asiaru Star System. They are military grade, though typically lack the most advanced technology.
-Class 3 are state of the art military-grade ships designed for usage by FORCOM.
+Class 3 are state of the art military-grade ships designed for FASS usage.
 
 Types of ships
 
