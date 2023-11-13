@@ -1,0 +1,12 @@
+- Missile Cruiser, ship-of-the-line of the FASS military
+- 15,000 tons, 100 metres by 30 metres by 15 metres
+- Holds 16 hybrid guided missiles (Larger, long range engine housing at the base of the missiles that ejects the smaller warhead + booster rocket assembly when it is within engagement range)
+	- Has 8 missiles in reserve
+- Armed with one 20cm multi-purpose autocannon. Fires in 7 round bursts before reloading.
+	- Employs an autoloader to quickly reload shells
+	- Can fire: Flechette (shrapnel)
+	- HVAP (high velocity armour piercing)
+	- Concussive shells/HESH
+
+- has uh, some anti munitions defence? It can fire its autocannon at incoming missiles, and by using flechette rounds it can flood a space with a high-density of shrapnel.
+	- Also armed with dedicated CIWS turrets, functioning similar to Rheinmetall airburst shrapnel shells - low rate of fire, but creates incredibly dense shrapnel fields.
