@@ -39,6 +39,6 @@ Types of ships
 - Gælavīma - RRPC
 # Kyōtocorp:
 
-The Kyōtian empire used to be a small kingdom on the outskirts of the captured Ecclesian territory; however, when the star cluster of Ecclesian times collided with another open cluster, they were able to greatly expand their territory. After the fall of Ecclesia and expansion of the New Ecclesian Empire, several provinces would split into independent territories. While some were acquisent about joining the Kyōtian Empire, others tried to unsuccessfully fight for their independence. Of these, only one was able to maintain their independence from Kyōtocorp - Lieŭstva. However, due to increased tensions between the FASS and Kyōtian Empire, they have become more congenial with the Kyōtian Empire.
+The Kyōtian empire used to be a Japenese heavy machinery company, but once they developed space-faring technology they were able to establish a nation. After the fall of Ecclesia and expansion of the New Ecclesian Empire, several provinces would split into independent territories. While some were acquisent about joining the Kyōtian Empire, others tried to unsuccessfully fight for their independence. Of these, only one was able to maintain their independence from Kyōtocorp - Lieŭstva. However, due to increased tensions between the FASS and Kyōtian Empire, they have become more congenial with the Kyōtian Empire.
 
 Kyōtocorp is a Japanese company founded long ago, Kyōtians, where Corp is a long lost appendum. It is now considered part of the Kyōtians name.
