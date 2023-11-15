@@ -20,7 +20,7 @@ Anton flicked the transmitter off and turned to Lt. Dubois. “Request orders fr
 
 Several seconds later, the communications officer replied over the intercom: “They’re processing our request.”
 
-Anton cleared his throat, and flicked the transmitter back on, continued: "Sakurajima, be advised that you were approaching an area of hostilities currently under naval blockade. Asplain and its orbital structures are closed to all celestial traffic. We can send you a drone tender to assist with repairs, but we request that you leave this area once those repairs are concluded."
+Anton cleared his throat, and flicked the transmitter back on, continuing: "Sakurajima, be advised that you were approaching an area of hostilities currently under blockade: Asplain and its orbital structures are closed to all traffic. We can send you a drone tender to assist with repairs, but we request that you leave this area once those repairs are concluded."
 
 "Negative. Our destination is Asplain," came the reply.
 
