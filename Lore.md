@@ -1,4 +1,3 @@
-
 # Free Asiaru Star Systems:
 
 FASS is a flawed democracy, aristocratic, elitist in politics, outdated power structures. Possibly on the brink of splitting into a couple smaller nations, so it uses the war to try and unify the nation. Perhaps one nation is thinking of splitting, and wants to expand their power before they do?
