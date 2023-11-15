@@ -25,5 +25,5 @@ There are 4 classes of ships as designated by FORCOM (Asiarian Force Command) re
 * Class 2 are military exports sold to adjunct nations under the Free Asiaru Star System. They are military grade, though typically lack the most advanced technology.
 * Class 3 are state of the art military-grade ships designed for FASS naval usage.
 
-Types of ships
-* TODO
+Military ship classifications
+* 

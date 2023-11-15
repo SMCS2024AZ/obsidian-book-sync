@@ -1,2 +1,2 @@
-- Gælavīma is a [[Lore|Class 2]] RRPC requisitioned for use by the FASS
+- Gælavīma is a [[General Notes|Class 2]] RRPC requisitioned for use by the FASS
 - 5,000 tons, 50 metres by 20 metres by 10 metres
